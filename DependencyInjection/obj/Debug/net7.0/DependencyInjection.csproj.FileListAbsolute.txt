@@ -1,0 +1,14 @@
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/DependencyInjection.AssemblyInfo.cs
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/bin/Debug/net7.0/DependencyInjection
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/bin/Debug/net7.0/DependencyInjection.deps.json
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/bin/Debug/net7.0/DependencyInjection.runtimeconfig.json
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/bin/Debug/net7.0/DependencyInjection.dll
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/bin/Debug/net7.0/DependencyInjection.pdb
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/DependencyInjection.dll
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/refint/DependencyInjection.dll
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/DependencyInjection.pdb
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/DependencyInjection.genruntimeconfig.cache
+/Users/eliasalazar/Documents/oop playground/DependencyInjection/obj/Debug/net7.0/ref/DependencyInjection.dll
